@@ -2,7 +2,7 @@
 
 **Traffic Application**
 
-Cleanch is a Flutter application that allows users to open a map and check for traffic or other events happening on their route. Users can select a main route and receive notifications if that route has an event or traffic. Additionally, everyone can post an event or report traffic.
+Trafic_app is a Flutter application that allows users to open a map and check for traffic or other events happening on their route. Users can select a main route and receive notifications if that route has an event or traffic. Additionally, everyone can post an event or report traffic.
 
 ## Features
 
@@ -23,7 +23,7 @@ Cleanch is a Flutter application that allows users to open a map and check for t
 
 - **Sign-in Screens**
 
-    <img src="Screenshots/Screenshot_1720457112.png" alt="Main Map Screen" width="400">
+    <img src="Screenshots/Screenshot_1720457112.png" alt="Signin" width="400">
 
 
 
@@ -34,7 +34,7 @@ To use this application, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/traffic_app.git
+   git clone https://github.com/usfbelhadj/Traffic_app
    ```
 
 2. **Clone the repository:**
